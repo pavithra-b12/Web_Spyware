@@ -1,0 +1,9 @@
+[2025-07-11 10:45:41] Camera Disabled
+[2025-07-11 10:45:49] Camera Enabled
+[2025-07-20 19:00:32] Camera Enabled
+[2025-07-20 19:00:43] Camera Disabled
+[2025-07-20 19:01:08] Camera Enabled
+[2025-07-20 19:01:59] Password for 'admin' changed.
+[2025-07-21 21:29:53] Password for 'admin' changed.
+[2026-02-06 12:32:42] Camera Disabled
+[2026-05-10 16:49:36] Camera Enabled

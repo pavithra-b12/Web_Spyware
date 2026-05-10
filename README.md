@@ -3,7 +3,6 @@ WebCam Spyware Security
 Overview
 
 WebCam Spyware Security is a cybersecurity-based desktop application developed to detect and prevent unauthorized webcam access. The system provides real-time webcam monitoring, password-protected access control, intruder detection, automatic video recording during suspicious access attempts, and secure activity logging.
-
 The application is designed to improve webcam privacy and enhance system-level security against spyware-related threats.
 
 Features
